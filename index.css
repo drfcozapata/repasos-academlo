@@ -50,8 +50,9 @@ img {
 }
 
 button {
-	padding: 1rem 4rem;
-	width: 50%;
+	display: block;
+	padding: 1.5rem 4rem;
+	width: 40%;
 	margin: 3rem auto;
 	background-color: #fff;
 	border: 2px solid #000;
